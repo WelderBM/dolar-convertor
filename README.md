@@ -8,9 +8,3 @@
 visão do site com inputs preenchidos:
 <img src="./Visão Geral do Site.png" alt="visão-geral-do-site">
 </label>
-<br>
-<br>
-<label>
-Resultado da interação com o botão usando recursos do javascript:
-<img src="./resultado.png" alt="visão-geral-do-site">
-</label>
