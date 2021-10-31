@@ -12,5 +12,5 @@ visão do site com inputs preenchidos:
 <br>
 <label>
 Resultado da interação com o botão usando recursos do javascript:
-<img src="./resultado.png" alt="visão-geral-do-site">
+<img src="./resultado.png" alt="result">
 </label>
