@@ -1,10 +1,14 @@
-<h1>Este foi o segundo site que fiz</h1>
+<h1>This project was the second one that i made</h1>
 
-<p> Neste site eu usei da ajuda do Rodolfo Mori para aprender conceitos de html, como sua estrutura e um pouco da estilização pelo css, também foi usado uma pequena parte de javascript para dar vida ao site</p>
-<br>
-<h4> Aqui está a visão do site:</h4>
+>status: finished✔
+## Introdução
+<p>(edited in 11/12/2021) This represent my beggining of my walk and it was made 2 months ago... the idea was create a site that i can put the money in real and go to a value in dolars with a dolar pre difined value </p>
 
-<label>
-visão do site com inputs preenchidos:
+<h4> here is the site view:</h4>
 <img src="./Visão Geral do Site.png" alt="visão-geral-do-site">
-</label>
+
+### Tecnologias usadas
+<ul>
+  <li>HTML5</li> 
+  <li>CSS3</li> 
+</ul>
